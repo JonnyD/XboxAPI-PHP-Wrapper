@@ -1,5 +1,5 @@
 {
-    "name": "jonnyd/XboxAPI-PHP-Wrapper",
+    "name": "jonnyd/xboxapi-php-wrapper",
     "type": "library",
     "description": "PHP wrapper for XboxAPI",
     "keywords": ["xbox", "framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
