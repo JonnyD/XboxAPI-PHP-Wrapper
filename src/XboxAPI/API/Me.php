@@ -10,7 +10,7 @@ class Me extends AbstractAPI
      * @return ProfileResponse
      */
     public function profile()
-    {
+    { 
         return $this->getRequest('profile', ProfileResponse::class);
     }
 }
